@@ -29,7 +29,7 @@ export default function Testimonial() {
 
           {/* Testimonial Text */}
           <div className="flex-1 mt-6 md:mt-0">
-            <p className="mb-4 text-xl text-gray-600">
+            <p className="mb-4 text-xl text-white">
               Don&apos;t just take our word for it - hear what our satisfied
               customers have to say!
             </p>
